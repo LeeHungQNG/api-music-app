@@ -1,6 +1,6 @@
-// const { ZingMp3 } = require('zingmp3-api-full');
+const { ZingMp3 } = require('zingmp3-api-full');
 // const { ZingMp3 } = require('zingmp3-api-full-v2');
-const { ZingMp3 } = require('zingmp3-api-full-v3');
+// const { ZingMp3 } = require('zingmp3-api-full-v3');
 
 class ZingController {
   getSong(req, res) {
